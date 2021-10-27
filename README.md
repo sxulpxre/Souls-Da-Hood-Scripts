@@ -1,1 +1,1 @@
-# Souls-Da-Hood-Scripts
+All files in this Respository cointain DA HOOD scripts only.
