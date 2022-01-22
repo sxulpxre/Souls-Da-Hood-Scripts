@@ -1388,3 +1388,5 @@ function()
      L_207_.run.RunAnim.AnimationId =    "http://www.roblox.com/asset/?id=616163682"
      L_207_.jump.JumpAnim.AnimationId =  "http://www.roblox.com/asset/?id=656117878"
      L_207_.fall.FallAnim.AnimationId =  "http://www.roblox.com/asset/?id=656115606"
+end
+)
