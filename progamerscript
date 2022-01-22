@@ -1381,10 +1381,10 @@ L_21:NewButton(
 Rthro and Ninja,
 "You are cool",
 function()
-     local L_206_ = game.Players.LocalPlayer.Character.Animate
-     L_206_.idle.Animation1.AnimationId = "http://www.roblox.com/asset/?id=2510196951"
-     L_206_.idle.Animation2.AnimationId = "http://www.roblox.com/asset/?id=2510197257"
-     L_206_.walk.WalkAnim.AnimationId =   "http://www.roblox.com/asset/?id=616168032"
-     L_206_.run.RunAnim.AnimationId =     "http://www.roblox.com/asset/?id=616163682"
-     L_206_.jump.JumpAnim.AnimationId =   "http://www.roblox.com/asset/?id=656117878"
-     L_206_.fall.FallAnim.AnimationId =   "http://www.roblox.com/asset/?id=656115606"
+     local L_207_ = game.Players.LocalPlayer.Character.Animate
+     L_207_.idle.Animation1.AnimationId = "http://www.roblox.com/asset/?id=2510196951"
+     L_207_.idle.Animation2.AnimationId = "http://www.roblox.com/asset/?id=2510197257"
+     L_207_.walk.WalkAnim.AnimationId =  "http://www.roblox.com/asset/?id=616168032"
+     L_207_.run.RunAnim.AnimationId =    "http://www.roblox.com/asset/?id=616163682"
+     L_207_.jump.JumpAnim.AnimationId =  "http://www.roblox.com/asset/?id=656117878"
+     L_207_.fall.FallAnim.AnimationId =  "http://www.roblox.com/asset/?id=656115606"
