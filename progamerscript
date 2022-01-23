@@ -1127,7 +1127,6 @@ L_14_:NewButton(
 	function()
 		game.Players.LocalPlayer.Character.Head.face.Texture = "rbxassetid://129900258"
 	end)
-	
 L_14_:NewButton(
 	"Rejoin Server",
 	"Rejoins Same Server",
